@@ -9,10 +9,6 @@ This is also a work in progress. Please pardon the mess.
 
 # Sourdough: a journey
 
-## A note on weights
-
-If you really want to get into bread or baking, I highly recommend an inexpensive scale like [this one](https://www.amazon.com/American-Weigh-Scales-Signature-Precision/dp/B002SC3LLS/). It makes recipes more repeatable.
-
 ## Sourdough crock
 
 This is the place you keep your sourdough starter. Recommendations include glass mason jars or BPA-free plastic containers. I use a 32-oz plastic deli container (made of polypropylene and therefore BPA-free) myself, but you should use what's convenient and comfortable for you. Personally, I find it helpful to use a clear container so you can see the gluten development (as little bubbles of air) of your starter from the side.
@@ -72,3 +68,9 @@ A boule is the rounded shape of a common handmade loaf. What we're trying to do 
 5. Set to cool on a wire rack. Don't cut into the bread until it's cooled!
 
 This recipe was adapted from Sam Sifton's NYT recipe, modified for taste and ease of preparation.
+
+## A note on weights
+
+If you really want to get into bread or baking, I highly recommend an inexpensive set of scales like [this one](https://www.amazon.com/American-Weigh-Scales-Signature-Precision/dp/B002SC3LLS/). It makes recipes more repeatable.
+
+If you don't have a set of scales, all-purpose and bread flour is about 120g/cup, and 5g of kosher salt is about a teaspoon. You can see other helpful conversions [here](https://www.kingarthurflour.com/learn/ingredient-weight-chart), but seriously consider getting a set of scales.
