@@ -60,7 +60,7 @@ You can use discard starter for a variety of delicious recipes. I use mine for [
 A boule is the rounded shape of a common handmade loaf. What we're trying to do is to form a taut surface on the top of the boule, so that it rises upwards instead of spreading outwards, and form the rounded shape that will create the final shape of the loaf.
 
 1. Dust parchment paper with flour.
-2. Dust a work surface (a clean countertop or a clean wooden cutting board) with flour, dump out the dough and form a boule ([this might be a useful demonstration](https://youtu.be/VuIT0RJDdZ8?t=31)). My preferred method of doing this is by pulling the sides of the dough out and up gently, so the bottom surface becomes taut, then folding that stretch portion down onto the top of the forming boule. Repeat until the whole bottom surface is taught and the boule can be flipped without the dough sagging to the sides. The video demonstration might be helpful for those who haven't baked before.
+2. Dust a work surface (a clean countertop or a clean wooden cutting board) with flour, dump out the dough and form a boule ([this might be a useful demonstration up until about 1:15](https://youtu.be/VuIT0RJDdZ8?t=31)). 
 3. Transfer boule to parchment paper. Let rise, covered with a flour-dusted tea towel for 2 hours or until roughly doubled in size. Don't worry if it doesn't double, it should spring in the oven.
 
 ### Baking
