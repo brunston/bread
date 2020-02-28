@@ -60,18 +60,18 @@ You can use discard starter for a variety of delicious recipes. I use mine for [
 A boule is the rounded shape of a common handmade loaf. What we're trying to do is to form a taut surface on the top of the boule, so that it rises upwards instead of spreading outwards, and form the rounded shape that will create the final shape of the loaf.
 
 1. Dust parchment paper with flour.
-2. Dust a work surface (a clean countertop or a clean wooden cutting board) with flour, dump out the dough and form a boule ([this might be a useful demonstration](https://youtu.be/VuIT0RJDdZ8?t=31)).
+2. Dust a work surface (a clean countertop or a clean wooden cutting board) with flour, dump out the dough and form a boule ([this might be a useful demonstration](https://youtu.be/VuIT0RJDdZ8?t=31)). My preferred method of doing this is pulling the sides of the dough out and up so the bottom surface becomes taut, and then flipping the whole thing over.
 3. Transfer boule to parchment paper. Let rise, covered with a flour-dusted tea towel for 2 hours or until roughly doubled in size. Don't worry if it doesn't double, it should spring in the oven.
 
 ### Baking
 
-1. Preheat the oven to 450° F, and preheat your dutch oven. Before transferring the boule, score the top with a (very) sharp knife or razor blade. I typically run one large cut down the middle of the boule, aiming for about a half-inch deep score.
+    1. Preheat the oven to 450° F (if you have an anemic oven, you can set it higher), and preheat your dutch oven. Before transferring the boule, score the top with a (very) sharp knife or razor blade. I typically run one large cut down the middle of the boule, aiming for about a half-inch deep score.
 2. Transfer the boule into the dutch oven using the parchment paper, being careful not to burn yourself on the oven sides (they're very hot!).
 3. Cover and bake for 25-30 minutes.
 4. Uncover and continue to bake an additional 20-30 minutes until nicely browned.
-5. Set to cool on a wire rack. Don't cut into the bread until it's cooled!
+5. Set to cool on a wire rack. Don't cut into the bread until it's cooled (at least a half hour)!
 
-This recipe was adapted from Sam Sifton's NYT recipe, modified for taste and ease of preparation.
+This recipe was adapted from [Sam Sifton's NYT recipe](https://cooking.nytimes.com/recipes/1018028-sourdough-no-knead-bread), modified for taste and ease of preparation.
 
 ## A note on weights
 
