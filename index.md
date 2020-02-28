@@ -71,7 +71,7 @@ A boule is the rounded shape of a common handmade loaf. What we're trying to do 
 4. Uncover and continue to bake an additional 20-30 minutes until nicely browned.
 5. Set to cool on a wire rack. Don't cut into the bread until it's cooled (at least a half hour)!
 
-This recipe was adapted from [Sam Sifton's NYT recipe](https://cooking.nytimes.com/recipes/1018028-sourdough-no-knead-bread), modified for taste and ease of preparation.
+<sup><sub>This recipe was adapted from Sam Sifton's no-knead bread recipe, which was adapted from Mark Bittman's no-knead bread recipe, which was a popularized version of Jim Lahey's no-knead bread recipe. I have modified it for taste and ease of preparation.</sub></sup>
 
 ## A note on weights
 
