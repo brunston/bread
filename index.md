@@ -13,6 +13,12 @@ This is also a work in progress. Please pardon the mess.
 
 This is the place you keep your sourdough starter. Recommendations include glass mason jars or BPA-free plastic containers. I use a 32-oz plastic deli container (made of polypropylene and therefore BPA-free) myself, but you should use what's convenient and comfortable for you. Personally, I find it helpful to use a clear container so you can see the gluten development (as little bubbles of air) of your starter from the side.
 
+## Keeping your sourdough starter
+
+You can either keep your starter in the fridge, feeding it once a week, or at room temperature, feeding it every 12 hours. Look at the next section for how to feed your starter.
+
+When you are ready to bake, use the same ratios but feed every 12 hours until it starts to become bubbly and is doubling in volume at least every 12 hours. If your sourdough crock is clear, look for bubbles of air dotting the side of the crock.
+
 ## Feeding your sourdough starter
 
 Feeding sourdough starter is a matter of ratios. You can do this step once a week for refrigerated starter that isn't actively being used to bake bread. This step should be done once every doubling (about every 12 hours depending on how active your starter is) when you're preparing to bake bread.
@@ -24,8 +30,6 @@ This guide assumes you are keeping 200 grams of starter in your sourdough crock.
 Discard enough starter to leave just 100g. If you've been following this guide's regimen and ratios, you'll be discarding 200g here, but it's just a rough guide.
 
 Add 100g all-purpose flour (just under 1 cup), and add 100g lukewarm water (just under 1/2 cup). Stir until combined and smooth. Cover loosely with the lid of your container and let sit for around 2 hours at room temperature to give the yeast a chance to warm up. Close the lid tightly and return to the fridge.
-
-When you are ready to bake, use the same ratios but feed every 12 hours until it starts to become bubbly and is doubling in volume at least every 12 hours. If your sourdough crock is clear, look for bubbles of air dotting the side of the crock.
 
 If you use the Brunston Bread recipe below, these ratios and amounts will work out just fine.
 
