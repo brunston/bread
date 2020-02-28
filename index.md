@@ -41,7 +41,7 @@ You can use discard starter for a variety of delicious recipes. I use mine for [
 
 ## "Brunston Bread" no-knead sourdough bread recipe
 
-Ingredients
+### Ingredients
 
 * 425 grams all-purpose flour, or bread flour
 * 4 grams kosher salt
